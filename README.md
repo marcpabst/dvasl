@@ -1,4 +1,4 @@
-# Searchlight Analyis of Directional Varibility (dvasl)
+# Searchlight Analyis of Directional Variability (dvasl)
 
 ## Introduction
 
