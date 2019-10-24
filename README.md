@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Installation
-**dvasl** can be installed directly from GitHub using pip: `pip install git+https://github.com/marcpabst/dva-searchlight`.
+**dvasl** can be installed directly from GitHub using pip: `pip install git+https://github.com/marcpabst/dvasl`. 
 
 ## Example
 
