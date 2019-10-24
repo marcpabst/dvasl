@@ -11,5 +11,4 @@ setup(
      packages=find_packages(),
      description="Searchlight-like analysis for fMRI data.",
      long_description=long_description
-     exclude_package_data = {'': ['data']},
  )
