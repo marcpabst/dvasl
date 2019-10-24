@@ -31,8 +31,7 @@ sl_a.run()
 raw_dva_map_a = sl.get_return_nifti()
 ```
 
-One way to proceed from here is to calculate dva maps for two different conditions and then calculate the differen:
-
+One way to proceed from here is to calculate dva maps for two different conditions and then calculate the difference:
 ```python
 nif = nil.image.math_img("img1 - img2", img1 = raw_dva_map_a, img2 = raw_dva_map_b)
 nif.to_filename("sub1_diff_a_b.nii.gz")
